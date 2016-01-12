@@ -4,4 +4,4 @@ Enumeracion del servicio SMB
 * USO *<br>
 
 - Primero debe ser root
-- teminal# sh smbf.sh
+- y ejecutar <b>sh smbf.sh</b>
